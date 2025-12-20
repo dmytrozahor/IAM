@@ -2,7 +2,7 @@
 
 #### English
 
-This repository contains the assignments that arose from participation in the compulsory module IAM
+This repository contains solutions to the assignments that arose from participation in the compulsory module IAM
 (`Introduction to Computer Science & Algorithmic Mathematics`) at KIT (Karlsruhe Institute of Technology) in 2025.
 
 The basic structure is organized as follows:
@@ -13,8 +13,8 @@ Each package also includes a README.md file with a detailed description of the g
 
 #### Deutsch
 
-Dieses Repository beinhaltet die Aufgaben, die sich aus der Teilnahme am Pflichtmodul IAM 
-(Einstieg in die Informatik & algorithmische Mathematik) an der Universität KIT im Jahr 2025 
+Dieses Repository beinhaltet die Lösungen zu den Aufgaben, die sich aus der Teilnahme am Pflichtmodul IAM
+(`Einstieg in die Informatik & algorithmische Mathematik`) an der Universität KIT im Jahr 2025
 ergeben haben.
 
 Die grundlegende Struktur ist wie folgt eingehalten:
