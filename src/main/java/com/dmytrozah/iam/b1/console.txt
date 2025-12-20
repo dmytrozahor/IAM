@@ -1,0 +1,9 @@
+cp Test.java TestKopie.java
+
+mkdir new_dir
+
+mv TestCopy.java new_dir/
+
+cd new_dir
+
+rm *.java
