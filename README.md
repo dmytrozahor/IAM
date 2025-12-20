@@ -7,9 +7,9 @@ This repository contains solutions to the assignments that arose from participat
 
 The basic structure is organized as follows:
 
-Each package `com.dmytrozah.iam.**` contains a Java class with the corresponding assignment description and its implementation.
+1. Each package `com.dmytrozah.iam.**` contains a Java class with the corresponding assignment description and its implementation.
 
-Each package also includes a README.md file with a detailed description of the goals and, if applicable, the implementation steps.
+2. Each package also includes a `README.md` file with a detailed description of the goals and, if applicable, the implementation steps.
 
 #### Deutsch
 
