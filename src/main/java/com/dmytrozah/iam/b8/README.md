@@ -43,8 +43,8 @@ a_i = g(a_{i-1}) \quad \text{für } i = 1, 2, \ldots
 \tag{1}
 $$
 
-Der Mathematiker **Lothar Collatz** (1910–1990) äußerte die Vermutung,
-dass die Folge ( {a_i}_i ) immer in dem Zyklus
+Der Mathematiker **Lothar Collatz** (1910–1990) äußerte die Vermutung, dass die Folge
+( {a_i}_i ) immer in dem Zyklus
 
 $$
 4 ;\to; 2 ;\to; 1
