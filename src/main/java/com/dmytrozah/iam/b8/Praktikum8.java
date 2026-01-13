@@ -1,6 +1,7 @@
 package com.dmytrozah.iam.b8;
 
 import java.util.Arrays;
+import java.util.Scanner;
 
 /**
  * F1. Warum kann die Collatz-Folge zwischenzeitlich deutliche Vervielfachungen erreichen?
@@ -13,9 +14,18 @@ import java.util.Arrays;
 public class Praktikum8 {
 
     static void main() {
-        int[] folge = new int[11];
+        Scanner scanner = new Scanner(System.in);
+        int n = scanner.nextInt();
+
+        if (n < 0){
+            System.err.println("Can't be less than zero.");
+            System.exit(1);
+        }
+
+        int[] folge = new int[n];
 
         System.out.println(berechneCollatzFolge(11, 0, folge));
+        System.out.println(Arrays.toString(folge));
     }
 
     static int berechneCollatzFolge(int N, int i, int[] folge){
