@@ -5,7 +5,7 @@ public class Finanzplanung {
     static void main(String[] args) {
         Portfolio portfolio = new Portfolio();
         Geldanlage[] anlagen = new Geldanlage[]{
-                new Geldanlage(100, 2, 5, 3 / 100),
+                new Geldanlage(100, 2, 5, (double) 3 / 100),
                 new Geldanlage(200, 4, 8, 2.5 / 100),
                 new Geldanlage(150, 6, 9, 1.7 / 100)
         };
