@@ -1,9 +1,9 @@
-package com.dmytrozah.iam.b9;
+package com.dmytrozah.iam.b9.a1;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Praktikum9 {
+public class QuicksortPraktikum9 {
 
     static void main() {
         Scanner scanner = new Scanner(System.in);

@@ -1,4 +1,4 @@
-package com.dmytrozah.iam.b9;
+package com.dmytrozah.iam.b9.a1;
 
 public class Quicksort {
 
