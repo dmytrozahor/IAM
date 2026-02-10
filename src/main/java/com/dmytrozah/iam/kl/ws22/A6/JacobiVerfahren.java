@@ -15,7 +15,7 @@ public class JacobiVerfahren {
         int n = A_.length;
 
         for (int i = 0; i < n; i++){
-            this.D_inv[i][i] = 1.0   / A_[i][i];
+            this.D_inv[i][i] = 1.0 / A_[i][i];
         }
 
         for (int i = 0; i < n; i++){
